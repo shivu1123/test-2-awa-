@@ -4,10 +4,10 @@ const HeroSection = () => {
       className="hero-section w-100" // Hero section ko full width diya gaya
       style={{
         backgroundImage: 'url("https://www.celpip.ca/wp-content/uploads/2019/07/trios-college-london-campus-exterior-wide-katie-naccarato.jpg")', // Hero section ka background image set kiya gaya
-        backgroundSize: 'cover', // Image ko container ke size ke hisab se cover karne ke liye
-        backgroundPosition: 'center', // Image ko center me align kiya gaya
+        backgroundSize: 'cover', 
+        backgroundPosition: 'center', 
         height: '100vh', // Full viewport height ensure kiya gaya
-        position: 'relative' // Position set ki gayi for overlay aur content ko
+        position: 'relative' 
       }}
     >
       <div 
@@ -15,7 +15,7 @@ const HeroSection = () => {
         style={{
           position: 'absolute', 
           top: 0, left: 0, right: 0, bottom: 0, // Full screen ko cover karega
-          backgroundColor: 'rgba(0,0,0,0.5)' // Black transparent overlay for better text visibility
+          backgroundColor: 'rgba(0,0,0,0.5)' // 
         }}
       />
       <div 
