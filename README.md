@@ -1,4 +1,4 @@
-to complete this test, i used little bit ai, and used website like w3 school.i used bootstrap for design part, not most of the code from ai, i took help from my fried.
+to complete this test, i used little bit ai, and used website like w3 school.i used bootstrap for design part, not most of the code from ai, i took help from my fried. i have added comments in all important file in my native language with english words.
 
 # 🌐 React + Vite Static Website
 
