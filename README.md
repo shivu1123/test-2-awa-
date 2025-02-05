@@ -1,3 +1,5 @@
+to complete this test, i used little bit ai, and used website like w3 school.
+
 # 🌐 React + Vite Static Website
 
 This is a simple static website built with [React](https://react.dev/) and [Vite](https://vitejs.dev/), using [Bootstrap](https://getbootstrap.com/) for styling.
