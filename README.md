@@ -1,8 +1,63 @@
-# React + Vite
+markdown
+# 🌐 React + Vite Static Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a simple static website built with [React](https://react.dev/) and [Vite](https://vitejs.dev/), using [Bootstrap](https://getbootstrap.com/) for styling.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- ⚡ Fast development with Vite
+- 🎨 Responsive design with Bootstrap
+- ⚛ Component-based architecture with React
+- 📂 Easy to deploy as a static site
+
+## 🛠 Installation
+
+Follow these steps to set up the project on your local machine:
+
+### 1️⃣ Clone the Repository
+
+sh
+git clone https://github.com/your-username/your-repo.git
+cd your-repo
+
+
+### 2️⃣ Install Dependencies
+
+sh
+npm install
+
+
+### 3️⃣ Start Development Server
+
+sh
+npm run dev
+
+
+The development server will start, and you can access the site at `http://localhost:5173/` (default Vite port).
+
+## 📦 Build for Production
+
+To create an optimized build for deployment:
+
+sh
+npm run build
+
+
+The output will be in the `dist/` folder, ready to be deployed.
+
+## 🚀 Deployment
+
+You can deploy the `dist/` folder to any static hosting provider, such as:
+
+- [Vercel](https://vercel.com/)
+- [Netlify](https://www.netlify.com/)
+- [GitHub Pages](https://pages.github.com/)
+- [Cloudflare Pages](https://pages.cloudflare.com/)
+
+## 📜 License
+
+This project is open-source and available under the [MIT License](LICENSE).
+
+---
+
+
